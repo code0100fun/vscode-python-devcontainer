@@ -1,3 +1,18 @@
 {
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
+  "dotfiles.installCommand": "install",
+  "dotfiles.repository": "code0100fun/dotfiles",
+  "dotfiles.targetPath": "~/dotfiles",
+  "editor.tabSize": 2,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.profiles.linux": {
+    "zsh": {
+      "path": "zsh"
+    },
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    }
+  }
 }
