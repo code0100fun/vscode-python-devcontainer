@@ -1,6 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
   "dotfiles.installCommand": "install",
   "dotfiles.repository": "code0100fun/dotfiles",
   "dotfiles.targetPath": "~/dotfiles",
@@ -14,5 +13,7 @@
       "path": "bash",
       "icon": "terminal-bash"
     }
-  }
+  },
+  "editor.fontFamily": "Consolas, 'Courier New', monospace, 'Hack Nerd Font Mono'",
+  "terminal.integrated.fontFamily": "'Hack Nerd Font Mono', monospace"
 }
